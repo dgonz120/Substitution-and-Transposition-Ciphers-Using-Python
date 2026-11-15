@@ -41,7 +41,8 @@ The terminal was opened and the working directory was changed to the Desktop.
 cd ~/Desktop
 ```
 
-<!-- Add screenshot here: Screenshot 1 - Terminal Showing Desktop Directory -->
+<img width="468" height="69" alt="image" src="https://github.com/user-attachments/assets/ea2ec65c-041d-4353-8239-75b455fd6efc" />
+
 
 ### Step 2 — Create Python File
 
@@ -52,12 +53,13 @@ A new Python file was created using Nano.
 ```bash
 nano crypto.py
 ```
+<img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/dac48b2e-a4f1-4493-9069-073d61a4d673" />
 
 ### Step 3 — Add Substitution Cipher Code (Shift 6)
 
 The provided substitution cipher code was copied and pasted into the Nano editor.
 
-<!-- Add screenshot here: Screenshot 2 - Cipher Code Inside Nano Editor -->
+<img width="468" height="371" alt="image" src="https://github.com/user-attachments/assets/aa9bd0be-1680-4264-b412-db5a5a79576c" />
 
 ### Step 4 — Save the File
 
@@ -84,7 +86,8 @@ The encrypt option was selected and a sentence was entered.
 - **Input:** `hello world`
 - **Output:** Encrypted text
 
-<!-- Add screenshot here: Screenshot 3 - Shift 6 Encryption Result -->
+<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/3d6808e1-6049-4e73-a4c9-3f925639e7fe" />
+
 
 ### Step 7 — Test Decryption
 
@@ -95,7 +98,8 @@ The program was executed again and the decrypt option was selected.
 - **Input:** Encrypted text
 - **Output:** `hello world`
 
-<!-- Add screenshot here: Screenshot 4 - Shift 6 Decryption Result -->
+<img width="468" height="83" alt="image" src="https://github.com/user-attachments/assets/6826e6a7-5554-475f-8d8c-b27cefbe44fe" />
+
 
 ### Step 8 — Modify Program to ROT13
 
@@ -107,7 +111,6 @@ The program was reopened in Nano and modified to shift characters by 13 position
 nano crypto.py
 ```
 
-<!-- Add screenshot here: Screenshot 5 - Editing Code for ROT13 -->
 
 ### Step 9 — Save ROT13 Changes
 
@@ -115,7 +118,8 @@ The updated file was saved using the following keyboard sequence:
 
 `Ctrl + X` → `Y` → `Enter`
 
-<!-- Add screenshot here: Screenshot 6 - ROT13 File Saved -->
+<img width="468" height="415" alt="image" src="https://github.com/user-attachments/assets/7fd53808-80da-42ae-8965-f5005e7fd478" />
+
 
 ### Step 10 — Run ROT13 Program
 
@@ -136,7 +140,7 @@ The encrypt option was selected.
 - **Input:** `hello world`
 - **Output:** `uryyb jbeyq`
 
-<!-- Add screenshot here: Screenshot 7 - ROT13 Encryption Output -->
+<img width="468" height="89" alt="image" src="https://github.com/user-attachments/assets/08253f8c-6e4b-476c-8764-456a378f3377" />
 
 ### Step 12 — Test ROT13 Decryption
 
@@ -147,7 +151,8 @@ The decrypt option was selected.
 - **Input:** `uryyb jbeyq`
 - **Output:** `hello world`
 
-<!-- Add screenshot here: Screenshot 8 - ROT13 Decryption Output -->
+<img width="468" height="81" alt="image" src="https://github.com/user-attachments/assets/a59d6af9-c5f6-47da-93fa-fcc2b14b4f70" />
+
 
 ### Step 13 — Modify Program for Transposition Cipher
 
@@ -159,7 +164,8 @@ The program was modified to implement a transposition cipher by reversing the st
 nano crypto.py
 ```
 
-<!-- Add screenshot here: Screenshot 9 - Editing Code for Transposition Cipher -->
+<img width="468" height="320" alt="image" src="https://github.com/user-attachments/assets/a7c40f16-1514-43a2-a27b-518f5f7ce9ab" />
+
 
 ### Step 14 — Save Transposition Code
 
@@ -186,7 +192,7 @@ The encrypt option was selected.
 - **Input:** `hello`
 - **Output:** `olleh`
 
-<!-- Add screenshot here: Screenshot 10 - Transposition Encryption Output -->
+<img width="468" height="83" alt="image" src="https://github.com/user-attachments/assets/f3c6242e-5e7b-4318-89d1-c38c7d251a4a" />
 
 ### Step 17 — Test Transposition Decryption
 
@@ -197,7 +203,7 @@ The decrypt option was selected.
 - **Input:** `olleh`
 - **Output:** `hello`
 
-<!-- Add screenshot here: Screenshot 11 - Transposition Decryption Output -->
+<img width="468" height="82" alt="image" src="https://github.com/user-attachments/assets/60927b13-5bec-4b1b-b634-33d7d11bdbb7" />
 
 ## Results & Analysis
 
